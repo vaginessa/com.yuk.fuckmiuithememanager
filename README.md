@@ -4,7 +4,7 @@
 
 [![Stars](https://img.shields.io/github/stars/qqlittleice/FuckMiuiThemeManager?label=stars)](https://github.com/Xposed-Modules-Repo/com.yuk.fuckmiuithememanager) 
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.yuk.fuckmiuithememanager?label=release)](https://github.com/Xposed-Modules-Repo/com.yuk.fuckmiuithememanager/releases/latest) 
-[![Download](https://img.shields.io/downloads/Xposed-Modules-Repo/com.yuk.fuckmiuithememanager/total)](https://github.com/Xposed-Modules-Repo/com.yuk.fuckmiuithememanager/releases)
+[![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.yuk.fuckmiuithememanager/total)](https://github.com/Xposed-Modules-Repo/com.yuk.fuckmiuithememanager/releases)
 
 ## 功能
 
