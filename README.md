@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Xposed模块] MIUI 主题破解
+# MIUI 主题破解
 
 这是一个适用于 MIUI (China) 的主题破解 Xposed 模块。
 
